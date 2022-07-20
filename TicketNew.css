@@ -1,0 +1,259 @@
+.header{
+    width:100%;
+    height: 50px;
+    background: #2c333d;
+}
+body{
+    margin:0;
+}
+.logo{
+    margin-top:30px;
+    cursor: pointer;
+}
+.locations{
+    width:100px;
+    height:20px;
+    margin-top: -34px;
+    margin-left: 130px;
+    cursor: pointer;
+}
+.location{
+    color: #fff;
+}
+.tn-city-name{
+    color: #fff;
+}
+.place{
+    width:40px;
+    height:20px;
+    margin-top: -18px;
+    margin-left: 220px;
+    cursor: pointer;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    width:450px;
+    height:50px;
+    margin-top: -40px;
+    margin-left: 450px;
+
+}
+.home,.movies,.theatres,.events,.orders{
+    width:160px;
+    color:gainsboro;
+    height:40px;
+    cursor: pointer;
+}
+.home:hover,.movies:hover,.theatres:hover,.events:hover,.orders:hover{
+    color:grey;
+}
+.login{
+    display: flex;
+    flex-direction: row;
+    width:400px;
+    height: 50px;
+    margin-top: -45px;
+    margin-left: 950px;
+}
+.signin,.offers,.app{
+    width:100px;
+    height:40px;
+    color:gainsboro;
+}
+.phone{
+    width:15px;
+    height: 20px;
+    margin-top: 10px;
+}
+.content{
+    width:100%;
+    height: 280px;
+    
+}
+.image{
+    width:100%;
+    height: 280px;
+}
+h2{
+ text-align: center;
+ font-weight: lighter;
+ text-decoration: rgba(255, 208, 0, 0.907);
+}
+.contain{
+    width:100%;
+    height: 100px;
+    display: flex;
+    flex-direction:row; 
+    justify-content: center;
+}
+#comingsoon{
+    cursor: pointer;
+}
+#nowshowing{
+    cursor: pointer;
+}
+.moviedetails{
+    width:100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 200px;
+}
+.kgf{
+    width:250px;
+    height:450px;
+}
+.rrr{
+    width:250px;
+    height:450px;
+}
+.morbius{
+    width:250px;
+    height:450px;
+}
+.twenty-one{
+    width:250px;
+    height:450px;
+}.tn-single-line{
+    text-align: center;
+}
+.tn-inline {
+    text-align: center;
+}
+.yellow{
+    text-align: center;
+    padding: 18px;
+}
+.viewmore{
+    margin-top: -40px;
+    margin-left: 650px;
+}
+.footer-section1{
+    width: 100%;
+    height: 200px;
+    background: #2c333d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.footer-box1{
+    width:200px;
+    height: 80px;  
+    cursor:pointer; 
+}
+.footer-box2{
+    width:200px;
+    height: 80px;
+    cursor:pointer;
+}
+.footer-box3{
+    width:200px;
+    height: 80px;
+    cursor:pointer;
+}
+.footer-box4{
+    width:200px;
+    height: 80px;
+    cursor:pointer;
+}
+.footer-box5{
+    width:200px;
+    height: 80px;
+    cursor:pointer ;
+   
+}
+.container2{
+    width:80%;
+    height:150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 60px;
+    
+}
+.footer-section2{
+    width:100%;
+    height: 310px;
+    background: #2f2f34;
+    display: flex;
+    flex-direction: row;
+}
+.list1{
+    margin-left: 100px;
+    width:250px;
+    color:#fff;
+}
+.list2{
+    color: antiquewhite;
+    width:250px;
+}
+.list3{
+    color:antiquewhite ;
+    width:250px;
+}
+.list4{
+    color:antiquewhite;
+    width:250px;
+}
+.footer-section3{
+    padding-top: 2px;
+    width:100%;
+    height:210px;
+    background:#2f2f34;
+    margin-top: 1px;
+
+}
+.footer-section3{
+    width:100%;
+    height: 210px;
+    background: #2f2f34;
+    display: flex;
+    flex-direction: row;
+}
+.movie-list1{
+    margin-left: 100px;
+    width:330px;
+    color:#fff;
+    
+}
+.movie-list2{
+    color: #fff;
+    width:320px;
+}
+.movie-list3{
+    color:#fff;
+    width:380px;
+}
+.footer-section4{
+    width:100%;
+    height:160px;
+    background:#2f2f34 ;
+    margin-top: 1px;
+}
+.facebook{
+    width:33px;
+    height:32px;
+    margin-left: 640px;
+    margin-top: 40px;
+}
+.twitter{
+    width:32px;
+    height:32px;
+    margin-bottom:0px;
+}
+
+
+ 
+
+
+
+
+
+
+
+    
+
+
+
+
